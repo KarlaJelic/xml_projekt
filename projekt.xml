@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kadrovi>
+  <kadar id="1">
+    <redni_broj>1</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>široki</vrsta_kadra>
+    <opis_kadra>Vrata se otvaraju, 3 statista 
+      igraju za stolom. Kamera se 
+      kreće prema njima.</opis_kadra>
+  </kadar>
+  <kadar id="2">
+    <redni_broj>2</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>krupni</vrsta_kadra>
+    <opis_kadra>Krupni kadar igrača kako igra, 
+      kamera u pokretu prolazi iza 
+      glave Statista4</opis_kadra>
+  </kadar>
+  <kadar id="3">
+    <redni_broj>3</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>široki</vrsta_kadra>
+    <opis_kadra>Kamera se okreće taman kada 
+      Statist3 ide sjest</opis_kadra>
+  </kadar>
+  <kadar id="4">
+    <redni_broj>4</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>krupni</vrsta_kadra>
+    <opis_kadra>Krupni kadrovi rekvizita</opis_kadra>
+  </kadar>
+  <kadar id="5">
+    <redni_broj>5</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>bliži</vrsta_kadra>
+    <opis_kadra>Statist4 sjedi, na njemu je fokus, u 
+      pozadini se vide Teo, Djevojka1, Djevojka2
+      </opis_kadra>
+  </kadar>
+  <kadar id="6">
+    <redni_broj>6</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>široki</vrsta_kadra>
+    <opis_kadra>U kadru se vidi Djevojka1, Marla ulazi s 
+      desna</opis_kadra>
+  </kadar>
+  <kadar id="7">
+    <redni_broj>7</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>bliži</vrsta_kadra>
+    <opis_kadra>Djevojka1(desno) i Marla(lijevo) pričaju</opis_kadra>
+  </kadar>
+  <kadar id="8">
+    <redni_broj>8</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>bliži</vrsta_kadra>
+    <opis_kadra>Djevojka1 odlazi(desno), Marla gleda 
+      u čašu
+      </opis_kadra>
+  </kadar>
+    <kadar id="9">
+    <redni_broj>9</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>krupni</vrsta_kadra>
+    <opis_kadra>Marla gleda u čašu</opis_kadra>
+  </kadar>
+  <kadar id="10">
+    <redni_broj>10</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>krupni</vrsta_kadra>
+    <opis_kadra>Marla gleda u čašu (FLASHBACK 
+      2 počinje)</opis_kadra>
+    </kadar>
+    <kadar id="11">
+    <redni_broj>11</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>široki</vrsta_kadra>
+    <opis_kadra>Statisti igraju za stolom, Marla 
+      izlazi desno</opis_kadra>
+    </kadar>
+    <kadar id="12">
+    <redni_broj>12</redni_broj>
+    <int_ext>int</int_ext>
+    <vrsta_kadra>bliži</vrsta_kadra>
+    <opis_kadra>Marla ulazi lijevo u kadar i sjeda 
+      kraj P1, Marla se zagleda i kreće FLASHBACK 3
+      </opis_kadra>
+    </kadar>
+</kadrovi>
