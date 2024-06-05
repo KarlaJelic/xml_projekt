@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="kadrovi">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="kadar" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="redni_broj" type="xs:int"/>
+              <xs:element name="int_ext" type="xs:string"/>
+              <xs:element name="vrsta_kadra" type="xs:string"/>
+              <xs:element name="opis_kadra" type="xs:string"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:int" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
